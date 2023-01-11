@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "934232813244",
+    "project_id": "traineemapdemo",
+    "storage_bucket": "traineemapdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934232813244:android:0e148dfe4a09fbd78aaab9",
+        "android_client_info": {
+          "package_name": "com.mapdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934232813244-ahq53uuaukb26bc4pi1stgdiufeg0vpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapdemo",
+            "certificate_hash": "462d3f76472d9a09384f5b9efc437883155d00e4"
+          }
+        },
+        {
+          "client_id": "934232813244-278enb3of21sna1r2t4nim0d3325g81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWuHdTj4e8z7Y0cVHgc-yIcvZF_UneXV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934232813244-278enb3of21sna1r2t4nim0d3325g81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
